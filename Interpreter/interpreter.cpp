@@ -1,3 +1,19 @@
+
+// .........This project can only handle arthematic operation (+,-,*,/,%[MOD]).
+// .........This Arthematic interpreter can take input from user using 'INPUT' keyword and Display using 'PRINT'.
+// .........This is the first version of the project, along with time we will update it.  
+                               
+//                      Example:                    
+//                                 INPUT a
+//                                 INPUT b
+//                                 c=a+b*b
+//                                 PRINT c
+//                                 END
+//                                 RUN
+                    
+//          This example will take two input from user, perform arthematic operation and the result will be display as output.
+
+
 #include <iostream>
 #include <vector>
 #include <string>
@@ -299,7 +315,7 @@ int main() {
     std::unordered_map<std::string, int> variables;
     std::vector<std::string> lines;
     std::string input;
-    std::cout << "BASIC Interpreter\nEnter END to finish input and RUN to execute.\n";
+    std::cout << "....................BASIC ARTHEMATIC-INTERPRETER............\n\n\n.........Enter END to finish input and RUN to execute.\n";
 
     while (true) {
         std::getline(std::cin, input);
