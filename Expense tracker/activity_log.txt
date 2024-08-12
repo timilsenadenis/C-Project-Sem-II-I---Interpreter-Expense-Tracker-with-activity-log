@@ -1,0 +1,5 @@
+2024-08-08 12:59:10 - admin: Registered user: manjil
+2024-08-08 12:59:18 - admin: Registered user: denis
+2024-08-08 12:59:40 - manjil: Added expense: 21342.000000 for food
+2024-08-08 13:38:00 - manjil: Added expense: 400.000000 for food
+2024-08-08 13:39:15 - admin: Viewed transactions for user: manjil
